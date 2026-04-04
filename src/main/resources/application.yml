@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: sales-management-relations-multidb
+
+  profiles:
+    active: dev
+
+jwt:
+  expiration: 86400000
